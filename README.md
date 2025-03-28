@@ -18,5 +18,10 @@ python ocr_conv_txt.py <pdfname.pdf>
 conda activate PaddleOCR
 python app_fastapi.py
 ```
-## 效果图
+## 前端
 ![image](https://github.com/user-attachments/assets/098b2b6e-30b2-43c7-b3f4-72cdd397dddf)
+
+## OCR对比
+![image](https://github.com/user-attachments/assets/d3a1c4d8-a2d2-4a41-9392-b6efc51d11b4)
+
+![image](https://github.com/user-attachments/assets/3fadeb8b-b81f-4bef-9278-0c0fa64cf62a)
